@@ -1,0 +1,12 @@
+Entities are - 
+
+["ANNUAL CROP CYCLE","AGRONOMIC","QUALITY","AROMA","TASTE","APPEARENCE","BIOCHEMICAL","EMERGENCE TIME","ABIOTIC STRESS","BIOTIC STRESS"]  -- 11 entities total
+
+
+Testing Data
+
+The visual aspect of boiled potatoes: potatoes turn gray or dark after boiling
+The tolerance to drought of the plant
+Cooked carrot amaranth and beet root sweetpotato, cassava, and balugu climbing yam
+The proportion of the crop cycle that takes place in one year The average actual annual yield taking into account the proportion of plants harvested from the number of plants planted Energy or number of chews necessary to chew the banana to make it ready to be swallowed Aroma of fresh grass Elemental flavor caused by dilute aqueous solutions of various substances such as sucrose or aspartame Uniformity of color of the surface of the sample
+The amount in adjusted weight basis (at commercialstandard moisture content) of grain that was harvested per unit area or plant The colour of the awns The smoothness or roughness of the lemma awn barbs
